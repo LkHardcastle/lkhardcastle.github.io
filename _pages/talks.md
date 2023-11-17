@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+* Long talk: *Bayesian model averaging for polyhazard models using Piecewise Deterministic Markov Processes*, **Bayesian Young Statisticians Meeting (BAYSM, j-ISBA)**, Online, November 2023
 * Contributed talk: *Piecewise Deterministic Monte Carlo for model selection in polyhazard models*, **Greek Stochastics $\nu$**, Naxos, Greece, July 2023
 * Poster: *Markov Chain Monte Carlo for automatic model selection in polyhazard models*, EPSRC visit to UCL mathematical and statistical sciences, May 2023
 * Poster: *Markov Chain Monte Carlo for automatic model selection in polyhazard models*, **Bayescomp 2023**, Levi, Finland, March 2023, **Poster prize winner**
