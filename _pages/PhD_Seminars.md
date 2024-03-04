@@ -5,7 +5,7 @@ permalink: /PhDSeminars/
 author_profile: false
 ---
 
-The Statistical Science PhD seminars give internal and external PhD students an opportunity to present their work to the department. PhD students in the department typically present their work at key milestones of their degree, primarily once they have upgraded from MPhil to PhD status.\
+The Statistical Science PhD seminars give internal and external PhD students an opportunity to present their work to the department. PhD students in the department typically present their work at key milestones of their degree, primarily once they have upgraded from MPhil to PhD status.
 
 The seminars are open to PhD students, staff, MSc students and 3rd & 4th year undergraduates. Talks are typically pitched at a fairly accessible level and are an excellent opportunity to connect with the research being done in the department. \
 
