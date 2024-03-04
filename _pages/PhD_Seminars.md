@@ -9,8 +9,9 @@ The Statistical Science PhD seminars give internal and external PhD students an 
 
 The seminars are open to PhD students, staff, MSc students and 3rd & 4th year undergraduates. Talks are typically pitched at a fairly accessible level and are an excellent opportunity to connect with the research being done in the department. 
 
-The seminars are co-hosted by 
-Luke Hardcastle, luke.hardcastle.20@ucl.ac.uk
+The seminars are co-hosted by <br>
+Luke Hardcastle, luke.hardcastle.20@ucl.ac.uk <br>
+Leandra Brauninger, l.brauninger@ucl.ac.uk
 
 (All locations are in 1-19 Torrington Place unless stated otherwise, all speakers are from UCL Statistical Science unless stated otherwise)
 
