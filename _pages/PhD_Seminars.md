@@ -18,19 +18,21 @@ Leandra Brauninger, l.brauninger@ucl.ac.uk
 # Seminars 2024
 ## June
 
-14/06/2024, 2pm, B09 - **Emily Alger** (Institue of Cancer Research), *TBA*
+14/06/2024, 2pm, B09 - **Emily Alger** (Institue of Cancer Research), *Advanced Bayesian dose-finding adaptive designs for assessment of joint outcomes*
 
-05/06/2024, 2pm, Room 115 - **Ali Septiandri** , *TBA*
+05/06/2024, 2pm, Room 115 - **Ali Septiandri**, *Handling Missing Values in Critical Care Medicine*
 
 ## May
 
-31/05/2024, 2pm, Room 115 - **Tor Erland Fjelde** (University of Cambridge), *TBA*
+31/05/2024, 2pm, Room 115 - **Tor Erland Fjelde** (University of Cambridge), *Turing.jl: a probabilistic programming language for practioners and researchers*
 
 22/05/2024, 2pm, B09 - **Kai Teh**, *TBA*
 
-17/05/2024, 2pm, Room 115 - **Jennifer Astley** (University of Oxford), *TBA*
+17/05/2024, 2pm, Room 115 - **Jennifer Astley** (University of Oxford), *Single-cell eQTL mapping identifies cell type and disease-specific genetic control of COVID-19 severity*
 
-10/05/2024, 3pm, B09 - **Matias Altamirano Montero**, *TBA*
+10/05/2024, 3pm, B09 - **Matias Altamirano Montero**, *Robust and Scalable Bayesian Inference*
+
+03/05/2024, 2pm, Room 115 - **Gerardo Durán-Martín** (Queen Mary University), *Outlier-robust Kalman Filtering through Generalised Bayes*
 
 ## April
 
