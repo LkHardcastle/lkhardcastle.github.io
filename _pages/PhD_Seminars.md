@@ -26,7 +26,7 @@ Leandra Brauninger, l.brauninger@ucl.ac.uk
 
 31/05/2024, 2pm, Room 115 - **Tor Erland Fjelde** (University of Cambridge), *Turing.jl: a probabilistic programming language for practioners and researchers*
 
-22/05/2024, 2pm, B09 - **Kai Teh**, *TBA*
+22/05/2024, 2pm, B09 - **Kai Teh**, *Relaxing the faithfulness assumption in causal inference.*
 
 17/05/2024, 2pm, Room 115 - **Jennifer Astley** (University of Oxford), *Single-cell eQTL mapping identifies cell type and disease-specific genetic control of COVID-19 severity*
 
