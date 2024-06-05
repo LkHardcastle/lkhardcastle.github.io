@@ -18,9 +18,9 @@ Leandra Brauninger, l.brauninger@ucl.ac.uk
 # Seminars 2024
 ## June
 
-14/06/2024, 2pm, B09 - **Emily Alger** (Institute of Cancer Research), *Advanced Bayesian dose-finding adaptive designs for assessment of joint outcomes*
+**Rescheduled** 19/06/2024, 3pm, B09 - **Ali Septiandri**, *Handling Missing Values in Critical Care Medicine*
 
-05/06/2024, 2pm, Room 115 - **Ali Septiandri**, *Handling Missing Values in Critical Care Medicine*
+14/06/2024, 2pm, B09 - **Emily Alger** (Institute of Cancer Research), *Advanced Bayesian dose-finding adaptive designs for assessment of joint outcomes*
 
 ## May
 
