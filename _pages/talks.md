@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * Poster: *Fitting Piecewise Exponential Models using PDMPs*, **Greek Stochastics $ \xi $**, Folegandros, Greece, July 2024
-* Poster: *Bayesian model averaging for polyhazard models using Piecewise Deterministic Markov Processes*, **2024 ISBA world meeting**, Venice, Italy, July 
+* Poster: *Bayesian model averaging for polyhazard models using Piecewise Deterministic Markov Processes*, **2024 ISBA world meeting**, Venice, Italy, July 2024
 * Talk: *Averaging polyhazard models using Piecewise deterministic Monte Carlo with applications to data with long-term survivors*, London meeting on Computational Statistics London, UK, June 2024
 * Poster: *Fitting piecewise exponential models using PDMPs*, London meeting on Computational Statistics London, UK, June 2024
 * Long talk: *Bayesian model averaging for polyhazard models using Piecewise Deterministic Markov Processes*, **Bayesian Young Statisticians Meeting (BAYSM, j-ISBA)**, Online, November 2023
