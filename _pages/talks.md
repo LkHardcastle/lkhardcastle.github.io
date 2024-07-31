@@ -9,6 +9,7 @@ author_profile: true
 * Poster: *Bayesian model averaging for polyhazard models using Piecewise Deterministic Markov Processes*, **2024 ISBA world meeting**, Venice, Italy, July 2024
 * Talk: *Averaging polyhazard models using Piecewise deterministic Monte Carlo with applications to data with long-term survivors*, London meeting on Computational Statistics London, UK, June 2024
 * Poster: *Fitting piecewise exponential models using PDMPs*, London meeting on Computational Statistics London, UK, June 2024
+* Seminar: *Bayesian model averaging for polyhazard models using Piecewise Deterministic Markov Processes*, UCL Statistical Science PhD seminar, London, UK, January 2024
 * Long talk: *Bayesian model averaging for polyhazard models using Piecewise Deterministic Markov Processes*, **Bayesian Young Statisticians Meeting (BAYSM, j-ISBA)**, Online, November 2023
 * Contributed talk: *Piecewise Deterministic Monte Carlo for model selection in polyhazard models*, **Greek Stochastics $\nu$**, Naxos, Greece, July 2023
 * Poster: *Markov Chain Monte Carlo for automatic model selection in polyhazard models*, EPSRC visit to UCL mathematical and statistical sciences, May 2023
