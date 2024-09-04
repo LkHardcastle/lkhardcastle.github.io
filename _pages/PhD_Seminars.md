@@ -16,6 +16,21 @@ Leandra Brauninger, l.brauninger@ucl.ac.uk
 (All locations are in 1-19 Torrington Place unless stated otherwise, all speakers are from UCL Statistical Science unless stated otherwise)
 
 # Seminars 2024
+
+## December
+
+05/12/2024, TBA - **Evangelos Dimitriou**, TBA
+
+## November 
+
+21/11/2024, TBA - **Anqi Sui**, TBA
+
+07/11/2024, TBA - **Hai Wang**, TBA
+
+## October 
+
+24/10/2024, TBA - **Chengyang Gao**, TBA
+
 ## June
 
 **Rescheduled** 19/06/2024, 3pm, B09 - **Ali Septiandri**, *Handling Missing Values in Critical Care Medicine*
