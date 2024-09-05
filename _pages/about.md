@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at University College London working in the Department of Statistical Science under the supervision of Dr Samuel Livingstone and Prof. Gianluca Baio since September 2021. My research focuses on a new class of Markov Chain Monte Carlo samplers based on Piecewise Deterministic Markov Processes and their application to Bayesian survival models. 
-
-From October 2023 I will part-based at the Alan Turing Institute as part of their enrichment scheme for PhD students.
+I am a PhD student at University College London working in the Department of Statistical Science under the supervision of Dr Samuel Livingstone and Prof. Gianluca Baio since September 2021. My research focuses on two areas: i) Markov Chain Monte Carlo based on Piecewise Deterministic Markov Processes with a focus on applications ii) Developing Bayesian survival models in the context of Health Technology Assessment. More generally I am interested in Bayesian computation and modelling, and how these two areas interact.
 
 I have a BSc in Mathematics and Statistics from the University of Warwick, and an MSc in Statistics from University College London. For my MSc dissertation, I was supervised by Samuel Livingstone and worked with Claire Black from UCLH and Federico Ricciardi from UCL Statistical Science developing a Bayesian hierarchical model for predicting levels of exercise intensity in mechanically ventilated Intensive Care patients.
 
