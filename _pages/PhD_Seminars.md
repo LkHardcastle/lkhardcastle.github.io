@@ -19,17 +19,21 @@ Leandra Brauninger, l.brauninger@ucl.ac.uk
 
 ## December
 
-05/12/2024, TBA - **Evangelos Dimitriou**, TBA
+05/12/2024, 3pm, B07 - **Evangelos Dimitriou**, *Data Fusion For Heterogeneous Treatment Effect Estimation With Multi-Task Gaussian Processes*
 
 ## November 
 
-21/11/2024, TBA - **Anqi Sui**, TBA
+21/11/2024, 3pm, B07 - **Anqi Sui**, TBA
 
-07/11/2024, TBA - **Hai Wang**, TBA
+07/11/2024, 3pm, B09 - **Haoxiang Gao**, TBA
 
 ## October 
 
-24/10/2024, TBA - **Chengyang Gao**, TBA
+31/10/2024, 3pm, B07 - **Vik Shirvaikar** (University of Oxford), *The predictive approach to uncertainty quantification*
+
+24/10/2024, 3pm, B07 - **Chengyang Gao**, TBA
+
+10/10/2024, 3pm, B07 - **Hai Wang**, *Text-Driven Omnidirectional Image Creation and Manipulation with Latent Diffusion Models*
 
 ## June
 
