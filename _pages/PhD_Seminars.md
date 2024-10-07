@@ -33,7 +33,7 @@ Leandra Brauninger, l.brauninger@ucl.ac.uk
 
 24/10/2024, 3pm, B07 - **Chengyang Gao**, TBA
 
-10/10/2024, 3pm, B07 - **Hai Wang**, *Text-Driven Omnidirectional Image Creation and Manipulation with Latent Diffusion Models*
+10/10/2024, 3pm, Room 03, 188 Tottenham Court Road - **Hai Wang**, *Text-Driven Omnidirectional Image Creation and Manipulation with Latent Diffusion Models*
 
 ## June
 
