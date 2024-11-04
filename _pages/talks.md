@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+* Invited talk: *Piecewise Deterministic Markov Processes for transdimensional sampling from flexible Bayesian survival models*, Isaac Newton Institute (as part of the programme: Stochastic systems for anomalous diffusions), University of Cambridge, UK, December 2024
+* Poster: *Piecewise exponential models, discretised diffusion priors and PDMPs*, Monte Carlo sampling: beyond the diffusive regime workshop, Isaac Newton Institute, Cambridge, UK, November 2024
+* Invited talk: *Piecewise Deterministic Markov Processes for transdimensional sampling from flexible Bayesian survival models*, Warwick Algorithms & Computationally Intensive Inference seminars, University of Warwick, UK, October 2024
 * Poster: *Fitting Piecewise Exponential Models using PDMPs*, **Greek Stochastics $ \xi' $**, Folegandros, Greece, July 2024
 * Poster: *Bayesian model averaging for polyhazard models using Piecewise Deterministic Markov Processes*, **2024 ISBA world meeting**, Venice, Italy, July 2024
 * Talk: *Averaging polyhazard models using Piecewise deterministic Monte Carlo with applications to data with long-term survivors*, London meeting on Computational Statistics London, UK, June 2024
