@@ -7,6 +7,7 @@ author_profile: true
 
 * Invited talk: *Diffusion Piecewise exponential models*, **Bayescomp 2025**, National University of Singapore, Singapore, June 2025
 * Contributed talk: *The diffusion piecewise exponential model for survival extrapolation*, *R-HTA workshop*, Remote, June 2025
+* Seminar: *Diffusion piecewise exponential models for survival extrapolation using Piecewise Deterministic Monte Carlo*, Institute of Statistical Mathematics, Toyko, Japan, May 2025
 * Invited talk: *Piecewise Deterministic Markov Processes for transdimensional sampling from flexible Bayesian survival models*, Statistics Seminars, University of Bristol, UK, March 2025
 * Invited talk: *Piecewise Deterministic Markov Processes for transdimensional sampling from flexible Bayesian survival models*, Isaac Newton Institute (as part of the programme: Stochastic systems for anomalous diffusions), University of Cambridge, UK, December 2024
 * Poster: *Piecewise exponential models, discretised diffusion priors and PDMPs*, Monte Carlo sampling: beyond the diffusive regime workshop, Isaac Newton Institute, Cambridge, UK, November 2024
