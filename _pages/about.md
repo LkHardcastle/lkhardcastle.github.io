@@ -16,7 +16,7 @@ My PhD research focuses on two areas: i) Markov Chain Monte Carlo based on Piece
 
 I have a BSc in Mathematics and Statistics from the University of Warwick, and an MSc in Statistics from University College London. For my MSc dissertation, I was supervised by Samuel Livingstone and worked with Claire Black from UCLH and Federico Ricciardi from UCL Statistical Science developing a Bayesian hierarchical model for predicting levels of exercise intensity in mechanically ventilated Intensive Care patients.
 
-**Contact me:** luke.hardcastle.20@ucl.ac.uk
+**Contact me:** luke.hardcastle@mrc-bsu.cam.ac.uk
 
 ### Research interests
 
