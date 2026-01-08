@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Luke Hardcastle"
 title_separator          : "-"
 name                     : &name "Luke Hardcastle"
-description              : &description "PhD student @ UCL Statistical Science"
+description              : &description "PostDoc @ MRC Biostatistics Unit, University of Cambridge"
 url                      : https://lkhardcastle.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lkhardcastle/lkhardcastle.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Luke Hardcastle"
   avatar           : "profile.png"
-  bio              : "PhD student at UCL Statistical Science"
-  location         : "London, UK"
+  bio              : "PostDoc @ MRC Biostatistics Unit, University of Cambridge"
+  location         : "Cambridge, UK"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ZPlwDrAAAAAJ&hl=en"
-  email            : "luke.hardcastle.20@ucl.ac.uk"
+  email            : "luke.hardcastle@mrc-bsu.cam.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
