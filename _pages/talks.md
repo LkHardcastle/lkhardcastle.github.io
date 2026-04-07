@@ -8,6 +8,7 @@ author_profile: true
 * Poster (upcoming): *Sticky manifold Piecewise Deterministic Markov Processes*, **Information Geometry, Privacy and Monte Carlo (ISBA Satellite)**, Tokyo, Japan, July 2026
 * Poster (upcoming): *Diffusion piecewise exponential models for survival extrapolation using piecewise deterministic Monte Carlo*, **2026 ISBA World Meeting**, Nagoya, Japan, June 2026 
 * Contributed talk (upcoming): *Bayesian latent factor models with tensor decomposed time-varying loadings for causal inference with unobserved confounding*, **Bayesian Young Statisticians Meeting (BAYSM, j-ISBA)**, Chiba, Japan, June 2026
+* Poster (upcoming): *Bayesian latent factor models with tensor decomposed time-varying loadings for causal inference with unobserved confounding*, **European Causal Inference Meeting**, Oxford, UK, April 2026
 * Invited talk: *Diffusion piecewise exponential models for survival extrapolation using piecewise deterministic Monte Carlo*, (J-ISBA session: New advances in Bayesian Statistics), **CFE-CMStatistics 2025**, London, UK, December 2025
 * Invited talk: *Diffusion Piecewise exponential models*, **Bayescomp 2025**, National University of Singapore, Singapore, June 2025, **(Session organiser)**
 * Contributed talk: *The diffusion piecewise exponential model for survival extrapolation*, **R-HTA workshop**, Remote, June 2025
